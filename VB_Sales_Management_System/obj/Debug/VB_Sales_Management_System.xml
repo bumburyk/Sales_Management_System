@@ -1,0 +1,116 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+VB_Sales_Management_System
+</name>
+</assembly>
+<members>
+<member name="T:VB_Sales_Management_System.My.Resources.Resources">
+<summary>
+  Класс ресурса со строгой типизацией для поиска локализованных строк и т.д.
+</summary>
+</member>
+<member name="P:VB_Sales_Management_System.My.Resources.Resources.ResourceManager">
+<summary>
+  Возвращает кэшированный экземпляр ResourceManager, использованный этим классом.
+</summary>
+</member>
+<member name="P:VB_Sales_Management_System.My.Resources.Resources.Culture">
+<summary>
+  Перезаписывает свойство CurrentUICulture текущего потока для всех
+  обращений к ресурсу с помощью этого класса ресурса со строгой типизацией.
+</summary>
+</member>
+<member name="P:VB_Sales_Management_System.My.Resources.Resources.Aerohok">
+<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:VB_Sales_Management_System.My.Resources.Resources.batoot">
+<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:VB_Sales_Management_System.My.Resources.Resources.Batoot_Drakon">
+<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:VB_Sales_Management_System.My.Resources.Resources.batoot_small">
+<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:VB_Sales_Management_System.My.Resources.Resources.Darts">
+<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:VB_Sales_Management_System.My.Resources.Resources.Fifty">
+<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:VB_Sales_Management_System.My.Resources.Resources.Five">
+<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:VB_Sales_Management_System.My.Resources.Resources.FiveHun">
+<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:VB_Sales_Management_System.My.Resources.Resources.Labirint">
+<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:VB_Sales_Management_System.My.Resources.Resources.Lazanka">
+<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:VB_Sales_Management_System.My.Resources.Resources.One">
+<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:VB_Sales_Management_System.My.Resources.Resources.OneHun">
+<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:VB_Sales_Management_System.My.Resources.Resources.Pirati">
+<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:VB_Sales_Management_System.My.Resources.Resources.smeshariki">
+<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:VB_Sales_Management_System.My.Resources.Resources.Ten">
+<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:VB_Sales_Management_System.My.Resources.Resources.Twenty">
+<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:VB_Sales_Management_System.My.Resources.Resources.two">
+<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:VB_Sales_Management_System.My.Resources.Resources.TwoHun">
+<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member>
+</members>
+</doc>
